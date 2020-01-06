@@ -20,6 +20,16 @@
 
 **Link to work:** [Dart Notes](https://github.com/MuhammadSaadQadeer/Learning-Flutter/blob/master/NOTES.md)
 
+### Day 2: Sunday 6, 2020 (Collections and error, exception handling)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Learnt about collections api and error or exception handling in dart similar to Java
+
+**Thoughts:** Collections supported by dart like `List` , `Map` , `HashMap` etc whole list can be found here https://api.dartlang.org/stable/2.7.0/dart-collection/dart-collection-library.html and how to handle errors or exceptions, using `try` & `catch` block and how to handle specific kind of exceptions using `on` keyword
+
+**Link to work:** [Dart Notes](https://github.com/MuhammadSaadQadeer/Learning-Flutter/blob/master/NOTES.md)
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
