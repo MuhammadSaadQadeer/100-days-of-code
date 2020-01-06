@@ -10,7 +10,7 @@
 
 **Link to work:** [Dart Notes](https://github.com/MuhammadSaadQadeer/Learning-Flutter/blob/master/NOTES.md)
 
-### Day 1: Sunday 5, 2020 (Basics of Dart)
+### Day 1: Sunday 5, 2020 (Types and basic keywords with string interpolation)
 
 <!-- ##### (delete me or comment me out) -->
 
