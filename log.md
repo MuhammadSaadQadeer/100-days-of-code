@@ -30,6 +30,16 @@
 
 **Link to work:** [Dart Notes](https://github.com/MuhammadSaadQadeer/Learning-Flutter/blob/master/NOTES.md)
 
+### Day 3: Sunday 7, 2020 (Flutter SDK Configuration and App initial setup)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Use official docs to setup flutter sdk for flutter development
+
+**Thoughts:** Used official docs to setup flutter sdk and create a basic flutter app and configured android and ios simulators to run the flutter app
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
 <!-- **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
