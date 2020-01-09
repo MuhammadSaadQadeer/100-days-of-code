@@ -20,7 +20,7 @@
 
 **Link to work:** [Dart Notes](https://github.com/MuhammadSaadQadeer/Learning-Flutter/blob/master/NOTES.md)
 
-### Day 2: Sunday 6, 2020 (Collections and error, exception handling)
+### Day 2: Monday 6, 2020 (Collections and error, exception handling)
 
 <!-- ##### (delete me or comment me out) -->
 
@@ -30,7 +30,7 @@
 
 **Link to work:** [Dart Notes](https://github.com/MuhammadSaadQadeer/Learning-Flutter/blob/master/NOTES.md)
 
-### Day 3: Sunday 7, 2020 (Flutter SDK Configuration and App initial setup)
+### Day 3: Tuesday 7, 2020 (Flutter SDK Configuration and App initial setup)
 
 <!-- ##### (delete me or comment me out) -->
 
@@ -40,6 +40,22 @@
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
 
-<!-- **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+### Day 4: Sunday 8, 2020 (Flutter SDK Configuration and App initial setup)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Hot reloading and refreshing
+
+**Thoughts:** Learnt how to use hot-reloading and refreshing with basic app setup
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+### Day 5: Sunday 9, 2020 (Flutter SDK Configuration and App initial setup)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Learnt about widgets
+
+**Thoughts:** Widgets are basic builidng block of any flutter app, most extensively use widgets are Text, Column, Row, Container, also learnt about theming the whole app using MaterialApp theme and implemented a custom widget using text widget
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
