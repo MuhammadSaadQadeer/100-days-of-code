@@ -40,7 +40,7 @@
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
 
-### Day 4: Sunday 8, 2020 (Flutter SDK Configuration and App initial setup)
+### Day 4: Wednessday 8, 2020 (Hot reloading and refreshing)
 
 <!-- ##### (delete me or comment me out) -->
 
@@ -50,12 +50,22 @@
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
 
-### Day 5: Sunday 9, 2020 (Flutter SDK Configuration and App initial setup)
+### Day 5: Thursday 9, 2020 (Widgets)
 
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Learnt about widgets
 
 **Thoughts:** Widgets are basic builidng block of any flutter app, most extensively use widgets are Text, Column, Row, Container, also learnt about theming the whole app using MaterialApp theme and implemented a custom widget using text widget
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+### Day 6: Friday 10, 2020 (Widgets)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Login Screen Implementation
+
+**Thoughts:** Implemented a custom login screen with TextField, Text, ButtonTheme and RaisedButton widgets, learnt about color scheming of buttons and layout containers
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
