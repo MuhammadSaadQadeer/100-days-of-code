@@ -60,12 +60,22 @@
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
 
-### Day 6: Friday 10, 2020 (Widgets)
+### Day 6: Friday 10, 2020 (UI Implementation)
 
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Login Screen Implementation
 
 **Thoughts:** Implemented a custom login screen with TextField, Text, ButtonTheme and RaisedButton widgets, learnt about color scheming of buttons and layout containers
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+### Day 7: Saturday 11, 2020 (Sign up screen with navigation)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Sign up screen with navigation
+
+**Thoughts:** Implemented a sign up sreen ui and explored navigation to navigate between screens
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
