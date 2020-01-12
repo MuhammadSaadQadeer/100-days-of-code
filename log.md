@@ -79,3 +79,13 @@
 **Thoughts:** Implemented a sign up sreen ui and explored navigation to navigate between screens
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+### Day 8: Saturday 12, 2020 (Re-usable components implementation)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Implement re-usable button and text components using flutter
+
+**Thoughts:** Learnt about creating re-usable components using dart in flutter, created a button and text component to display buttons and text respectively
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
