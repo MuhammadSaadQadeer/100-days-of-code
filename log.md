@@ -89,3 +89,13 @@
 **Thoughts:** Learnt about creating re-usable components using dart in flutter, created a button and text component to display buttons and text respectively
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+### Day 9: Saturday 13, 2020 (Code refactoring and more reusable compos)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Separate out login and sign up screens in screen folder completed button re-usable component by learning about `Function` type
+
+**Thoughts:** Code refactoring, separate out modules on the basis of functionality, completed button re-usable components by passing the function from parent component to children for execution
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
