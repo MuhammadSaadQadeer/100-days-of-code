@@ -80,7 +80,7 @@
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
 
-### Day 8: Saturday 12, 2020 (Re-usable components implementation)
+### Day 8: Sunday 12, 2020 (Re-usable components implementation)
 
 <!-- ##### (delete me or comment me out) -->
 
@@ -90,12 +90,22 @@
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
 
-### Day 9: Saturday 13, 2020 (Code refactoring and more reusable compos)
+### Day 9: Monday 13, 2020 (Code refactoring and more reusable compos)
 
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: Separate out login and sign up screens in screen folder completed button re-usable component by learning about `Function` type
 
 **Thoughts:** Code refactoring, separate out modules on the basis of functionality, completed button re-usable components by passing the function from parent component to children for execution
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+### Day 10: Tuesday 14, 2020 (Login form values submission using Stateful Widget)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Login from values submission using stateful widget and form validation
+
+**Thoughts:** Stateful widget is used to maintain the state of the form and GlobalKey<FormState> to get form values and to implement form validation
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
