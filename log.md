@@ -109,3 +109,14 @@
 **Thoughts:** Stateful widget is used to maintain the state of the form and GlobalKey<FormState> to get form values and to implement form validation
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+
+### Day 11: Wednessday 15, 2020 (Bottom navigation ui implementation)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Create bottom navigation ui
+
+**Thoughts:** Learnt creating a bottom navigation ui
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
