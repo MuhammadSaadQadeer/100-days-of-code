@@ -120,3 +120,14 @@
 **Thoughts:** Learnt creating a bottom navigation ui
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+
+### Day 12: Thursday 16, 2020 (Animated Container and opacity)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Created animations using animation container
+
+**Thoughts:** Uses animated container to create an animation, basics covered how to create an animation and use different widgets to acheive advanced animations using flutter
+
+**Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
