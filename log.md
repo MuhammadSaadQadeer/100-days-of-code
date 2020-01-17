@@ -131,3 +131,16 @@
 **Thoughts:** Uses animated container to create an animation, basics covered how to create an animation and use different widgets to acheive advanced animations using flutter
 
 **Link to work:** [Basic Flutter App](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app)
+
+
+### Day 13: Fridayy 17, 2020 (Draggable widget)
+
+<!-- ##### (delete me or comment me out) -->
+
+**Today's Progress**: Implemented basic a drag and drop example using Draggable widget
+
+**Thoughts:** Implemented a drag and drop example using Draggable widget, Draggable widget provides different methods like onDragEnd, onDragCancelled etc to handle the drag and drop, offsets and positions variables are used to handle the position and drop points.
+
+**Link to work:** [Drag and Drop](https://github.com/MuhammadSaadQadeer/Learning-Flutter/tree/master/my_first_app/lib/screens/draganddrop.dart)
+
+
